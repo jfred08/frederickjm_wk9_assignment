@@ -1,0 +1,7 @@
+#map {
+  height: 400px;
+}
+
+.hero-top, .page-footer {
+  background-color: lightblue;
+}
